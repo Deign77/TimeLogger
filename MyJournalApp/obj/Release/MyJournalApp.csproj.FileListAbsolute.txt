@@ -1,0 +1,12 @@
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Release\MyJournalApp.exe.config
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Release\MyJournalApp.exe
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Release\MyJournalApp.pdb
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Release\Newtonsoft.Json.dll
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Release\Newtonsoft.Json.xml
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Release\MyJournalApp.MyJournalApp.resources
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Release\MyJournalApp.Properties.Resources.resources
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Release\MyJournalApp.csproj.GenerateResource.cache
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Release\MyJournalApp.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Release\MyJournalApp.csproj.CopyComplete
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Release\MyJournalApp.exe
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Release\MyJournalApp.pdb

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyJournalApp",
+    "\\MyJournalApp\\obj",
+    "\\MyJournalApp\\obj\\Debug",
+    "\\MyJournalApp\\obj\\Release",
+    "\\packages",
+    "\\packages\\Newtonsoft.Json.12.0.3",
+    "\\packages\\Newtonsoft.Json.12.0.3\\lib"
+  ],
+  "SelectedNode": "\\MyJournalApp\\Properties",
+  "PreviewInSolutionExplorer": false
+}

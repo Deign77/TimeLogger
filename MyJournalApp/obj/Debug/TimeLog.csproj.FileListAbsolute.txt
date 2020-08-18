@@ -1,0 +1,13 @@
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Debug\MyJournalApp.exe.config
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Debug\MyJournalApp.exe
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Debug\MyJournalApp.pdb
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Debug\Newtonsoft.Json.dll
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Debug\Newtonsoft.Json.xml
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLog.csprojAssemblyReference.cache
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\MyJournalApp.Properties.Resources.resources
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLog.csproj.GenerateResource.cache
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLog.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLog.csproj.CopyComplete
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\MyJournalApp.exe
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\MyJournalApp.pdb
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLog.TimeLog.resources
