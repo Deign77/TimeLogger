@@ -26,6 +26,7 @@ namespace TimeLogger
         public List<Button> yearButtons { get; set; }
         public List<Button> monthButtons { get; set; }
 
-        public string path = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + @"\AppData\MyJournalAppData.json";
+        public string path = @"C:/VISUAL STUDIO Practice/Apps/MyJournalApp/MyJournalAppData.json";
+        //public string path = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + @"\AppData\MyJournalAppData.json";
     }
 }

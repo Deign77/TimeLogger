@@ -69,10 +69,11 @@ namespace TimeLogger
 
             string[] statActs = statList.Activities.Distinct().ToArray();
 
+            cmbxMostActive.Items.Clear();
+
             if (statActs.Count() > 1)
             {
                 statActs = statActs.OrderByDescending(x => statList.Activities.Count(e => e == x)).ToArray();
-                cmbxMostActive.Items.Clear();
 
                 for (int i = 0; i < statActs.Count(); i++)
                     cmbxMostActive.Items.Add(statActs[i]);
@@ -80,11 +81,9 @@ namespace TimeLogger
             else
             {
                 string[] months = statList.Dates.Select(x => CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(int.Parse(x.Substring(3, 2))) + " " + x.Substring(6, 4)).Distinct().ToArray();
-
+                
                 if (months.Count() > 1)
                 {
-                    cmbxMostActive.Items.Clear();
-
                     for (int i = 0; i < months.Count(); i++)
                         cmbxMostActive.Items.Add(months[i]);
                 }

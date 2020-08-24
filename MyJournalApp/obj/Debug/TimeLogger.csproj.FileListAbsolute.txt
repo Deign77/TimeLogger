@@ -11,3 +11,7 @@ C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLogger.cs
 C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLogger.exe
 C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLogger.pdb
 C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLogger.TimeLogger.resources
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Debug\TimeLogger.exe.manifest
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\bin\Debug\TimeLogger.application
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLogger.exe.manifest
+C:\VISUAL STUDIO Practice\Apps\MyJournalApp\MyJournalApp\obj\Debug\TimeLogger.application
