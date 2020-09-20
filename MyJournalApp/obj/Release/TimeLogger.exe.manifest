@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TimeLogger.exe" size="47584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TimeLogger.exe" size="48096">
       <assemblyIdentity name="TimeLogger" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LbZjBgHAxfBjty8utaLkLFI5kvcma3evVrWLI7yVGTY=</dsig:DigestValue>
+        <dsig:DigestValue>/UqkzvKoGBGIRjExkvX3LAOmFgGVPzWNa1xqnwyz7bY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -14,9 +14,8 @@ namespace TimeLogger
         {
             statList = new Stats() { Dates = new List<string>(), Activities = new List<string>(), HoursWorked = new List<double>(), Achievements = new List<string>(), Comments = new List<string>() };
             statEntryList = new List<Entry>();
-            int temp;
 
-            if (int.TryParse(input, out temp))
+            if (int.TryParse(input, out int temp))
             {
                 if (input.Length == 4)
                 {
@@ -38,7 +37,7 @@ namespace TimeLogger
                 {
                     for (int i = 0; i < year.Value.Count(); i++)
                     {
-                        if (year.Value[i].Activity == input)
+                        if (year.Value[i].Activity == input || year.Value[i].Activity.ToLower().Contains(input.ToLower()))
                             AddEntryToStats(year.Value[i]);
                     }
                 }

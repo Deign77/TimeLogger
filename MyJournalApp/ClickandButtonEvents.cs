@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -116,11 +117,10 @@ namespace TimeLogger
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            double temp;
-
-            if (txtbxActivity.Text.Length == 0) MessageBox.Show("Activity field is empty", "Incomplete Entry");
+            if (!DateTime.TryParseExact(txtbxDate.Text, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime dateTime)) MessageBox.Show("The date is not valid", "Invalid date or format");
+            else if (txtbxActivity.Text.Length == 0) MessageBox.Show("Activity field is empty", "Incomplete Entry");
             else if (txtbxHours.Text.Length == 0) MessageBox.Show("Hours field is empty", "Incomplete Entry");
-            else if (!double.TryParse(txtbxHours.Text, out temp)) MessageBox.Show("Hours field can only accept decimal numbers", "Wrong data type");
+            else if (!double.TryParse(txtbxHours.Text, out double temp)) MessageBox.Show("Hours field can only accept decimal numbers", "Wrong data type");
             else
             {
                 Entry newEntry = new Entry();
